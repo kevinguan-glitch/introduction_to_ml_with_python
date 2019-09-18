@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/introduction_to_ml_with_python/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/introduction_to_ml_with_python/master?urlpath=lab)
 
 # Introduction to Machine Learning with Python
 
